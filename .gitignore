@@ -1,0 +1,27 @@
+.vs
+x64
+log
+Debug
+Release
+packages
+##class file##
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so  
+*.db
+# compression file
+*.7z  
+*.dmg  
+*.gz  
+*.iso  
+*.jar  
+*.rar  
+*.tar  
+*.zip  
+*.via
+*.tmp
+*.err 
+*.VC.*
